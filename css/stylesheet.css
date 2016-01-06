@@ -14,3 +14,8 @@ body {
 ul {
   list-style: none;
 }
+
+.best {
+  color: purple;
+  font-weight: bold;
+}
