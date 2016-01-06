@@ -2,3 +2,15 @@
   font-style: italic;
   color: red;
 }
+
+img {
+  width: 400px;
+}
+
+body {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
