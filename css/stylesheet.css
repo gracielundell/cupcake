@@ -9,10 +9,21 @@ img {
 
 body {
   text-align: center;
+  background-color: #ffe5e5;
 }
 
 ul {
   list-style: none;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: red;
 }
 
 .best {
